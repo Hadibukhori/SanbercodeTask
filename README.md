@@ -1,6 +1,7 @@
 Tugas Bootcamp Sanbercode
 
 1. Membuat test cases menggunakan Qase.io dari e-commerce blibli.com
+
    Scenario mencakup end to end flow seperti
 1. Registrasi
 2. Login
