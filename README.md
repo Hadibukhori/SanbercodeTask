@@ -1,4 +1,4 @@
-Bootcamp Sanbercode Task
+   Bootcamp Sanbercode Task
 
 1. Created test cases using Qase.io from platform e-commerce blibli.com
 
