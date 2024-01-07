@@ -1,12 +1,12 @@
-Tugas Bootcamp Sanbercode
+Bootcamp Sanbercode Task
 
-1. Membuat test cases menggunakan Qase.io dari e-commerce blibli.com
+1. Created test cases using Qase.io from platform e-commerce blibli.com
 
-   Scenario mencakup end to end flow seperti dibawah ini dan export test cases dalam format XLSX
-- Registrasi
+   The scenario includes end to end flow as below and export test cases in XLSX format
+-  Registration
 -  Login
--  pencarian
--  pemesanan
--  pembayaran
+-  Searching
+-  Booking
+-  Payment
 
-2. Membuat bug report di dalam platform https://kasirdemo.belajarqa.com/
+2. Created bug reports within the platform https://kasirdemo.belajarqa.com/
